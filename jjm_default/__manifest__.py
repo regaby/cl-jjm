@@ -114,7 +114,7 @@
                 'osv_memory_count_limit = False',
                 'pg_path =',
 
-                'proxy_mode = False',
+                'proxy_mode = True',
                 'reportgz = False',
                 'screencasts =',
                 'screenshots = /tmp/odoo_tests',

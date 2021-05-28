@@ -162,7 +162,7 @@
         'https://github.com/OCA/sale-workflow.git',
         'https://github.com/OCA/web.git',
         'https://github.com/OCA/partner-contact.git',
-        'https://github.com/OCA/server-tools.git,
+        'https://github.com/OCA/server-tools.git',
         ##
         'https://github.com/regaby/contract.git',
         'https://github.com/regaby/account_debt_management.git',

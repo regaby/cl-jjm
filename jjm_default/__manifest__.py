@@ -142,6 +142,7 @@
     # syntax: the same as git clone
     'git-repos': [
         'https://github.com/regaby/cl-jjm.git',
+        'https://github.com/DaniRoBAzan/jjm_custom_addons_v13.git',
         'https://github.com/regaby/odoo-custom.git',
         'https://github.com/jobiols/odoo-addons.git',
         ## localización

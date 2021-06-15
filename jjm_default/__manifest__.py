@@ -165,7 +165,8 @@
         'https://github.com/OCA/partner-contact.git',
         'https://github.com/OCA/server-tools.git',
         ##
-        'https://github.com/regaby/contract.git',
+        # 'https://github.com/regaby/contract.git',
+        'https://github.com/ctmil/contract.git ctmil/contract',
         'https://github.com/regaby/account_debt_management.git',
         'https://github.com/CybroOdoo/CybroAddons.git',
         'https://github.com/odoomates/odooapps.git',

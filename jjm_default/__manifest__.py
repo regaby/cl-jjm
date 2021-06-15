@@ -166,7 +166,8 @@
         'https://github.com/OCA/server-tools.git',
         ##
         # 'https://github.com/regaby/contract.git',
-        'https://github.com/ctmil/contract.git ctmil/contract',
+        #'https://github.com/ctmil/contract.git ctmil/contract',
+        'https://github.com/OCA/contract.git oca-contract',
         #'https://github.com/regaby/account_debt_management.git',
         'https://github.com/ctmil/account_debt_management.git ctmil/account_debt_management -b master',
         'https://github.com/CybroOdoo/CybroAddons.git',

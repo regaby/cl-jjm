@@ -1,0 +1,27 @@
+// Iconized full screen apps menu
+.o_menu_apps {
+
+
+    .dropdown-menu {
+
+        opacity: 0;
+        visibility: hidden;
+        transition: visibility 100ms ease, opacity 100ms ease;
+        background: url("../img/jjm1.jpeg"),
+            linear-gradient(
+                to bottom,
+                $o-brand-odoo,
+                desaturate(lighten($o-brand-odoo, 20%), 15)
+            );
+        background-size: cover;
+        border-radius: 0;
+        // Display apps in a grid
+        align-content: flex-start;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+
+
+    }
+}

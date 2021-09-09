@@ -144,7 +144,10 @@
         'https://github.com/regaby/cl-jjm.git',
         'https://github.com/DaniRoBAzan/jjm_custom_addons_v13.git',
         'https://github.com/regaby/odoo-custom.git',
+        'https://github.com/regaby/e-addons.git',
         'https://github.com/jobiols/odoo-addons.git',
+        ## odoo website themes
+        'https://github.com/odoo/design-themes.git odoo-design-themes',
         ## localización
         'https://github.com/ingadhoc/odoo-argentina.git',
         'https://github.com/ingadhoc/odoo-argentina-ce.git',

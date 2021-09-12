@@ -168,6 +168,7 @@
         'https://github.com/OCA/partner-contact.git',
         'https://github.com/OCA/server-tools.git',
         'https://github.com/OCA/knowledge.git',
+        'https://github.com/OCA/server-brand.git',
         ##
         # 'https://github.com/regaby/contract.git',
         #'https://github.com/ctmil/contract.git ctmil/contract',
